@@ -1,0 +1,10 @@
+C:\Users\Angga\Desktop\TUBES KRIPTO\TEA\TEA\bin\Debug\TEA.exe.config
+C:\Users\Angga\Desktop\TUBES KRIPTO\TEA\TEA\bin\Debug\TEA.exe
+C:\Users\Angga\Desktop\TUBES KRIPTO\TEA\TEA\bin\Debug\TEA.pdb
+C:\Users\Angga\Desktop\TUBES KRIPTO\TEA\TEA\obj\Debug\TEA.Form1.resources
+C:\Users\Angga\Desktop\TUBES KRIPTO\TEA\TEA\obj\Debug\TEA.Properties.Resources.resources
+C:\Users\Angga\Desktop\TUBES KRIPTO\TEA\TEA\obj\Debug\TEA.csproj.GenerateResource.cache
+C:\Users\Angga\Desktop\TUBES KRIPTO\TEA\TEA\obj\Debug\TEA.csproj.CoreCompileInputs.cache
+C:\Users\Angga\Desktop\TUBES KRIPTO\TEA\TEA\obj\Debug\TEA.exe
+C:\Users\Angga\Desktop\TUBES KRIPTO\TEA\TEA\obj\Debug\TEA.pdb
+C:\Users\Angga\Desktop\TUBES KRIPTO\TEA\TEA\obj\Debug\TEA.csprojAssemblyReference.cache
